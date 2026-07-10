@@ -1,6 +1,5 @@
 /*
     Diego Guerrero - CIST04B1 (Data Structures Using Advanced Java)
-    Debugging and Questions: https://claude.ai/share/602cbdc5-4626-48cb-a9f2-5bd0f24591d5
  */
 
 import java.util.Scanner;
