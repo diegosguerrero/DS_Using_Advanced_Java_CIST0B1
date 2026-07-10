@@ -1,5 +1,5 @@
 /*
-    Diego Guerrero - CIST04B1 (Data Structures Using Advanced Java)
+    Diego Guerrero (2026) - CIST04B1 (Data Structures Using Advanced Java) - West Valley College
  */
 
 import java.util.Scanner;
